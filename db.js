@@ -1,0 +1,22 @@
+{
+  "posts":[
+    {
+      "id":"1",
+      "img":"https://duyt4h9nfnj50.cloudfront.net/resized/bulk_actions_image_8ee77b96-a5fc-4051-8891-7cb472857ba2-w240-b8.jpg",
+      "title":"4x3! Promo para disfrutar con amigos!"
+      "timestamp":"08/12/2019 08:00"
+    },
+    {
+      "id":"2",
+      "img":"https://assets.tmecosys.com/image/upload/t_web600x528/img/recipe/vimdb/225648.jpg",
+      "title":"4x3! Promo para disfrutar con la familia de ella!"
+      "timestamp":"08/12/2019 08:00"
+    },
+    {
+      "id":"3",
+      "img":"https://www.infobae.com/new-resizer/5sMm_RwJAGEiANf7-HILSm3F3jc=/750x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/09/15102211/asado-21.jpg",
+      "title":"50% para ellas todos los martes!"
+      "timestamp":"08/12/2019 08:00"
+    }
+  ]
+}
